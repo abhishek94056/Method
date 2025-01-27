@@ -1,6 +1,6 @@
 package method;
 
-public class user2 {
+public class user1 {
 
 	public static void main(String[] args) {
 		// Print a personalized message:

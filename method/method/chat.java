@@ -1,6 +1,6 @@
 package method;
 
-public class Dog {
+public class chat {
 	public void printHi() {
 		System.out.println("Hi!");
 	}

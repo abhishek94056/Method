@@ -1,9 +1,24 @@
 package method;
 
-public class call {
+public class HW {
 
 	public static void main(String[] args) {
-		deff d1 = new deff();
+		HW1 d1 = new HW1();
+		
+		//WAM to check if number is prime or not.
+		d1.prime(8);
+		
+		//WAM to check if number is Armstrong or not.
+		d1.Armstrong(686);
+		
+		//WAM to check if number is palindrome or not.
+		d1.pal(7287);
+		
+		//WAM to print reverse of a number.
+		d1.rev(679);
+		
+		//WAM to find factorial of a number.
+		d1.fact(4);
 		
 		//WAM to print table of a number.
 		d1.table(6);
@@ -23,13 +38,6 @@ public class call {
 		
 		//WAM to convert dollar into INR.
 		d1.doller(8);
-		
-		
-		
-		
-	
-		
-
 	}
 
 }

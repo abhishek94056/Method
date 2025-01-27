@@ -1,10 +1,10 @@
 package method;
 
-public class Home {
+public class chat1 {
 
 	public static void main(String[] args) {
 
-		Dog d = new Dog();
+		chat d = new chat();
 		
 		d.printHi();
 		
